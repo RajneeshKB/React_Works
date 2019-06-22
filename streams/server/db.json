@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "dds",
+      "description": "dsd",
+      "id": 1
+    },
+    {
+      "title": "My new Stream",
+      "description": "Just for fun! again",
+      "userId": "106330956022053612112",
+      "id": 2
+    },
+    {
+      "title": "programatic navigation",
+      "description": "New topic for me",
+      "userId": "106330956022053612112",
+      "id": 3
+    },
+    {
+      "title": "test from on submit",
+      "description": "just refactoring it",
+      "id": 5
+    },
+    {
+      "title": "New streaing component",
+      "description": "watch me",
+      "userId": "106330956022053612112",
+      "id": 7
+    }
+  ]
+}
